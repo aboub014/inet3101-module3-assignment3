@@ -10,7 +10,7 @@ The purpose of this assignment is to create a C program that manages seat reserv
 
 The solution uses a structure to represent each seat, storing the seat number, assignment status, and passenger name. Two arrays of this structure are used to manage seats for the outbound and inbound flights separately. The program provides a main menu to select a flight and a secondary menu to view seat availability, assign seats, and delete seat assignments. Each task is handled using separate functions for clarity.
 
-Pros and Cons of the Solution
+# Pros and Cons of the Solution
 
 ### Pros
 - The program follows the assignment requirements by using structures and arrays.
